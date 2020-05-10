@@ -2,7 +2,7 @@
 Estos archivos corresponden al sitio web del Centro de Investigación Tecnológico de la Armada de Chile.
 
 ## Instalación 
-Para instalar este sitio en su hosting, primero debe descargar/clonar este proyecto en su computador y guardarlo en la carpeta que estime conveniente. 
+Para instalar este sitio en su hosting o servidor local, primero debe descargar/clonar este proyecto en su computador y guardarlo en la carpeta que estime conveniente. 
 
 ## Paso 1: Abrir archivos keys.php y config.php
 Luego de haber descargado/clonado el proyecto en su computador, proceda a abrir la carpeta y  haga lo siguiente:
