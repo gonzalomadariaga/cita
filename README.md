@@ -60,5 +60,6 @@ define('DB_DATABASE', 'inserte_aqui_nombre_servidor_database');
 ## Paso 3: Importar base de datos
 El archivo bd_cita.sql es la base de datos del sitio web, para que funcione correctamente el sitio es fundamental que esta base de datos esté instalada. Para ello, deben importarla, en caso de que estén ocupado un servidor local, ingresar a localhost/phpmyadmin e importarla. 
 
+Teniendo ya todo modificado, el sitio debería funcionar correctamente, en caso de que no, contactenme vía WhatsApp y solucionamos los problemas. 
 
 
