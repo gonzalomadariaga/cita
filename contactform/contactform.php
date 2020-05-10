@@ -40,7 +40,7 @@
         
             //Recipients
             $mail->setFrom(SMTP_USERNAME);
-            $mail->addAddress('gonxxamd@gmail.com');    // Add a recipient
+            $mail->addAddress('AQUI VA EL CORREO DEL ADMIN DEL SITIO WEB');    // Add a recipient
          
             
             // Content
